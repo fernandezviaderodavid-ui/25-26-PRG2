@@ -1,4 +1,4 @@
-```java
+
 import java.util.Scanner;
 
 public class PyEdlin {
@@ -80,4 +80,3 @@ git commit -g "Cierre del scanner y mensaje de salida"
     }
 }
 git commit -g "Finalización de la implementación básica de pyEdlin en Java"
-```
