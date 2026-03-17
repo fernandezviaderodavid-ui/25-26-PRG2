@@ -60,14 +60,12 @@ class Fraccion {
         numerador = numerador / mcd;
         denominador = denominador / mcd;
 
-        // Evitar denominador negativo
         if (denominador < 0) {
             numerador = -numerador;
             denominador = -denominador;
         }
     }
 
-    // Algoritmo de Euclides
     private int calcularMCD(int a, int b) {
         while (b != 0) {
             int temp = b;
