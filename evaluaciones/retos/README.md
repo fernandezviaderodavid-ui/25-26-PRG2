@@ -5,4 +5,6 @@ Los retos se irán proponiendo, habitualmente luego de una disertación teórica
 |Retos|Rama de entrega|Fecha de entrega
 |-|-|-|
 [Reto 001](reto001/reto001.md)|reto-001|3 febrero, 14:15h
-[Reto 002](reto002/README.md)|reto-002|6 febrero, 12:15h
+[Reto 002](reto002/README.md)|reto-002|10 febrero, 14:15h
+[Reto 003](reto003/README.md)|reto-003|17 febrero, 14:15h
+[Reto 004](reto004/README.md)|reto-004|17 marzo, 14:15h
