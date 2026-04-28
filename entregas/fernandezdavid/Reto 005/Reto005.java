@@ -6,7 +6,6 @@ class Carrera {
     public void jugar() {
 
         
-    
         while (pos1 < 40 && pos2 < 40) {
 
             int avance = (int)(Math.random() * 3); // 0,1,2
