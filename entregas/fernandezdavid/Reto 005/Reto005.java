@@ -4,7 +4,7 @@ class Carrera {
     private int turno = 1;
 
     public void jugar() {
-
+        
     
         while (pos1 < 40 && pos2 < 40) {
 
